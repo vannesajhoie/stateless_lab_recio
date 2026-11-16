@@ -20,34 +20,34 @@ class Student {
 // Hard-coded list of students (at least 5)
 const List<Student> students = [
   Student(
-    name: 'Ana Cruz',
+    name: 'Henry James Abis',
     course: 'BS Information Technology',
     yearLevel: 3,
-    email: 'ana.cruz@school.edu',
+    email: 'henry.james@school.edu',
   ),
   Student(
-    name: 'Mark Reyes',
+    name: 'Joseph Denver Chavez',
     course: 'BS Computer Science',
     yearLevel: 2,
-    email: 'mark.reyes@school.edu',
+    email: 'joseph.chavez@school.edu',
   ),
   Student(
-    name: 'Liza Ramos',
+    name: 'Via Escobido',
     course: 'BS Information Systems',
     yearLevel: 4,
-    email: 'liza.ramos@school.edu',
+    email: 'via.escobido@school.edu',
   ),
   Student(
-    name: 'Paolo Santos',
+    name: 'Vannesa Recio',
     course: 'BS Computer Engineering',
     yearLevel: 1,
-    email: 'paolo.santos@school.edu',
+    email: 'vannesa.recio@school.edu',
   ),
   Student(
-    name: 'Jenny Lopez',
+    name: 'Djemnah Bagtasos',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'jenny.lopez@school.edu',
+    email: 'djemnah.bagtasos@school.edu',
   ),
 ];
 
